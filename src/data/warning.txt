@@ -1,0 +1,3 @@
+[!!!]   WARNING: 
+This is a really scuffed encryption algorithm I came up with in (no joke) under 2 minutes. Please, please don't use this if the data is actually sensitive. Thanks :)
+
